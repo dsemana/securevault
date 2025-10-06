@@ -1,4 +1,5 @@
 #!/bin/bash
+# creating a secure vault with 3 files
 
 cd
 cd home
