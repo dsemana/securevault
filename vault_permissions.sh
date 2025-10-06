@@ -1,5 +1,4 @@
 
-
 #!/bin/bash
 
 if [[ ! -d ~/secure_vault ]]; then 
